@@ -1,5 +1,8 @@
 # Chicago Ride-Sharing Analysis (Zuber)
 Summary:
+
 This project focused on identifying passenger preferences and the impact of external factors on ride frequency for "Zuber," a new ride-sharing company in Chicago. I started by web scraping weather data using Beautiful Soup to complement a relational database containing millions of taxi trips. Using Advanced SQL, I performed complex joins, data filtering, and aggregations to analyze competitor performance and market share across different city neighborhoods. Finally, I used Python (Pandas and Scipy) to conduct an Exploratory Data Analysis (EDA) and tested a statistical hypothesis to determine if weather conditions (rainy Saturdays) significantly affect trip duration from the Loop to O'Hare International Airport. The results provided actionable insights into how environmental variables influence urban mobility patterns and operational planning.
+
 <img width="705" height="350" alt="P Chicago Zuber 2" src="https://github.com/user-attachments/assets/6ee4aa01-3628-43ed-91c9-39d6a071d080" />
+
 <img width="708" height="358" alt="P Chicago Zuber 1" src="https://github.com/user-attachments/assets/254babc8-f7a1-4186-8770-034fb6b6f178" />
